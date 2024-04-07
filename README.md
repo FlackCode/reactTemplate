@@ -11,6 +11,9 @@ git clone https://github.com/FlackCode/reactTemplate
 cd reactTemplate
 npm install
 npm install -D tailwindcss postcss autoprefixer
+npm install react-icons
 npm run dev
 ```
 Run this in your Visual Studio Code to begin!
+
+I will keep adding on to the install code when i find some useful features that i use often!
