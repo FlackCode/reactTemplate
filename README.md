@@ -23,6 +23,6 @@ Bun verson:
 git clone https://github.com/FlackCode/reactTemplate
 cd reactTemplate
 bun install
-bun install react-icons
+bun i react-icons react-router-dom
 bun run dev
 ```
